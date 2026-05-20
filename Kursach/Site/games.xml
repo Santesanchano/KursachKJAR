@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+
+  <game>
+    <id>1</id>
+    <title>Red Dead Redemption 2</title>
+    <image>../Images/rdr/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/rdr/1.jpg</img>
+      <img>../Images/rdr/2.jpg</img>
+      <img>../Images/rdr/3.jpg</img>
+      <img>../Images/rdr/4.jpg</img>
+    </screenshots>
+
+    <genres>Экшен, Приключенческие</genres>
+    <description>Red Dead Redemption 2 для PC - представит эпическую сагу о приключениях Артура Моргана и банды Ван дер Линде в новом свете: игра станет еще более зрелищной и натуралистичной благодаря множеству всевозможных технических усовершенствований. В их числе увеличенная дальность прорисовки, улучшенные тени и освещение, новые текстуры травы и меха – и многое другое. Кроме того, вас ждет целый ряд дополнительных материалов для сюжетного режима.</description>
+
+    <installer>/Site/installers/rdr2.torrent</installer>
+  </game>
+
+  <game>
+    <id>2</id>
+    <title>God of War</title>
+    <image>../Images/gow/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/gow/1.jpg</img>
+      <img>../Images/gow/2.jpg</img>
+      <img>../Images/gow/3.jpg</img>
+    </screenshots>
+
+    <genres>Экшен, Приключенческие</genres>
+    <description>God of War Рагнарёк– это продолжение популярной игры God of War. Фимбулвинтер уже наступил. В поисках ответов Кратосу и Атрею предстоит посетить все девять миров, в то время как войска Одина в Асгарде готовятся к битве, которая, как предсказано, погубит все живое на свете.</description>
+
+    <installer>../installers/gow.torrent</installer>
+  </game>
+
+  <game>
+    <id>3</id>
+    <title>Resident Evil Requiem</title>
+    <image>../Images/resEvil/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/resEvil/1.jpg</img>
+      <img>../Images/resEvil/2.jpg</img>
+      <img>../Images/resEvil/3.jpg</img>
+    </screenshots>
+
+    <genres>Экшены, Приключенческие игры</genres>
+    <description>Resident Evil Requiem — это зрелищный экшен в постапокалиптической вселенной, где каждое событие — часть грандиозной истории. Девятая глава легендарной серии предлагает новую постановку: больше действия, глубокий сюжет, масштабные миссии и выбор, который влияет на весь мир. Здесь борьба идёт не только за выживание, но и за правду, спрятанную в тенях разрушенного мира.</description>
+    <installer>../installers/RER.torrent</installer>
+  </game>
+  
+  <game>
+    <id>4</id>
+    <title>S.T.A.L.K.E.R. 2</title>
+    <image>../Images/STALKER/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/STALKER/1.jpg</img>
+      <img>../Images/STALKER/2.jpg</img>
+      <img>../Images/STALKER/3.jpg</img>
+      <img>../Images/STALKER/4.jpg</img>
+    </screenshots>
+
+    <genres>Экшены, Приключенческие игры</genres>
+    <description>После второго взрыва 2006 года Зона стала ещё опаснее: радиация перекроила ландшафт, породила новых тварей и выплюнула аномалии, от которых не спасёт ни опыт, ни везение. Но артефакты, разбросанные по заражённой земле, стоят целое состояние, и именно за ними сюда лезут сталкеры. Вы один из них. Одиночка без страховки, без армии за спиной. Только ствол, аптечка и чутьё, которое пока не подводило.</description>
+    <installer>../installers/Stalker-2.torrent</installer>
+  </game>
+
+  <game>
+    <id>5</id>
+    <title>Mеtro Exodus </title>
+    <image>../Images/Metro/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/Metro/1.jpg</img>
+      <img>../Images/Metro/2.jpg</img>
+      <img>../Images/Metro/3.jpg</img>
+    </screenshots>
+
+    <genres>Экшены, Приключенческие игры</genres>
+    <description>Metro Exodus геймеру в роли Артема предстоит много путешествовать по поверхности. А поверхность — это величественные пейзажи, пусть и не такие невинные, какой была природа много тысячелетий назад, и не такие индустриальные, какой была Россия до ядерной войны, заставившей немногочисленные группы оставшихся в живых людей спуститься в метрополитен с целью выжить. Какими бы они ни были, эти бескрайние просторы не могут не впечатлять. </description>
+    <installer>../installers/Metro.torrent</installer>
+  </game>
+
+  <game>
+    <id>6</id>
+    <title>Far cry 3</title>
+    <image>../Images/FC3/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/FC3/1.jpg</img>
+      <img>../Images/FC3/2.jpg</img>
+      <img>../Images/FC3/3.jpg</img>
+    </screenshots>
+
+    <genres>Открытый мир, Экшен</genres>
+    <description>По мере выполнения миссий, Джейсон медленно, но уверенно освобождает отстров от пиратской напасти. Так же Джейсон освобождает своих друзей и отводит их к местному доктору Алеку Эрнхардтану. Позже, Джейсон узнаёт о гибели своего младшего брата Райли и отказывается покинуть остров до тех пор, пока не убьёт Вааса Монтенегро. Джейсон производит штурм лагеря пиратов и успешно справляется с убийством главного антагониста – Вааса Монтенегро. Но на этом приключения Джейсона не прекращаются и события переносятся на южный остров, где он узнаёт о том, что его младший брат Райли всё же жив.</description>
+    <installer>../installers/FarCry3.torrent</installer>
+  </game>
+
+
+  <game>
+    <id>7</id>
+    <title>The Last of Us</title>
+    <image>../Images/LOU/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/LOU/1.jpg</img>
+      <img>../Images/LOU/2.jpg</img>
+      <img>../Images/LOU/3.jpg</img>
+    </screenshots>
+
+    <genres>Экшены, Приключенческие игры</genres>
+    <description>The Last of Us Part 1 – боевик от третьего лица, рассказывающий историю о том, как люди столкнулись с паразитирующей болезнью и практически полностью вымерло. А те, кто остался в живых вынуждены противостоять опасным мутантам, которые при виде обычного человека начинают сразу его атаковать. В центре внимания окажется выживший мужчина и маленькая девочка, которые объединили свои усилия для спасения. </description>
+    <installer>../installers/LastOfUs.torrent</installer>
+  </game>
+
+  <game>
+    <id>8</id>
+    <title>Ghost of Tsushima</title>
+    <image>../Images/GhostOT/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/GhostOT/1.jpg</img>
+      <img>../Images/GhostOT/2.jpg</img>
+      <img>../Images/GhostOT/3.jpg</img>
+    </screenshots>
+
+    <genres>Открытый мир, Экшен</genres>
+    <description>В конце XIII века Монгольская империя уничтожает целые народы в стремлении подчинить себе Восток. Остров Цусима — единственное, что разделяет основную территорию Японии и огромный флот монголов под командованием коварного и безжалостного Хотун-хана.
+Первая атака монгольской армии заканчивается для защитников острова полным разгромом. Лишь отважный самурай Дзин Сакай готов продолжать сопротивление. Из его клана почти никто не уцелел, и Дзин готов пойти на всё, чтобы спасти свой народ и освободить свой дом. Ему придётся отвергнуть воинские традиции и пойти собственным путём — путём Призрака.</description>
+    <installer>../installers/GhostOT.torrent</installer>
+  </game>
+
+  <game>
+    <id>9</id>
+    <title>Cyberpunk 2077</title>
+    <image>../Images/Cyberpunk/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/Cyberpunk/1.jpg</img>
+      <img>../Images/Cyberpunk/2.jpg</img>
+      <img>../Images/Cyberpunk/3.jpg</img>
+    </screenshots>
+
+    <genres>Ролевые игры, Экшен</genres>
+    <description>Тематика киберпанка всегда будет востребована со стороны простых игроков. И что самое приятное, теперь на эту вселенную обратили свое внимание создатели легендарного Ведьмака. Они решили взять все в свои руки и создать поистине уникальный и большой мир, который можно будет исследовать и наслаждаться многочисленными возможностями.</description>
+    <installer>../installers/cyberpunk.torrent</installer>
+  </game>
+
+  <game>
+    <id>10</id>
+    <title>Forza Horizon 5</title>
+    <image>../Images/ForHor5/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/ForHor5/1.jpg</img>
+      <img>../Images/ForHor5/2.jpg</img>
+      <img>../Images/ForHor5/3.jpg</img>
+    </screenshots>
+
+    <genres>Гонки, Открытый мир</genres>
+    <description> Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории.
+
+    Бесконечный калейдоскоп приключений Horizon. Вас ждут увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории.</description>
+    <installer>../installers/ForzaHorizon5.torrent</installer>
+  </game>
+
+  <game>
+    <id>12</id>
+    <title>Elden Ring</title>
+    <image>../Images/EldenRing/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/EldenRing/1.jpg</img>
+      <img>../Images/EldenRing/2.jpg</img>
+      <img>../Images/EldenRing/3.jpg</img>
+    </screenshots>
+
+    <genres>RPG, Souls-like, Открытый мир</genres>
+    <description>Elden Ring — масштабная ролевая игра от FromSoftware, созданная в сотрудничестве с Джорджем Мартином. Игроку предстоит исследовать огромный мир Междуземья, сражаться с могущественными боссами и раскрывать тайны древних королевств.</description>
+    <installer>../installers/EldenRing.torrent</installer>
+  </game>
+
+  <game>
+    <id>13</id>
+    <title>Death Stranding</title>
+    <image>../Images/DeathStranding/main.jpg</image>
+  
+    <screenshots>
+      <img>../Images/DeathStranding/1.jpg</img>
+      <img>../Images/DeathStranding/2.jpg</img>
+      <img>../Images/DeathStranding/3.jpg</img>
+    </screenshots>
+  
+    <genres>Приключения, Научная фантастика</genres>
+    <description>Death Stranding — уникальная игра Хидео Кодзимы, где игроку предстоит соединять разрушённую Америку, преодолевая опасные территории и сталкиваясь с мистическими существами.</description>
+    <installer>../installers/DeathStranding.torrent</installer>
+  </game>
+
+  <game>
+    <id>14</id>
+    <title>Control</title>
+    <image>../Images/Control/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/Control/1.jpg</img>
+      <img>../Images/Control/2.jpg</img>
+      <img>../Images/Control/3.jpg</img>
+    </screenshots>
+
+    <genres>Экшен, Мистика</genres>
+    <description>Control рассказывает историю Джесси Фейден, которая попадает в загадочное Федеральное Бюро Контроля. Игрока ждут телекинетические способности, странные явления и уникальная атмосфера.</description>
+    <installer>../installers/Control.torrent</installer>
+  </game>
+
+  <game>
+    <id>15</id>
+    <title>Hitman 3</title>
+    <image>../Images/Hitman3/main.jpg</image>
+  
+    <screenshots>
+      <img>../Images/Hitman3/1.jpg</img>
+      <img>../Images/Hitman3/2.jpg</img>
+      <img>../Images/Hitman3/3.jpg</img>
+    </screenshots>
+  
+    <genres>Стелс, Экшен</genres>
+    <description>Hitman 3 завершает трилогию World of Assassination. Игроку предстоит выполнять контракты по всему миру, используя хитрость, маскировку и творческий подход к устранению целей.</description>
+    <installer>../installers/Hitman3.torrent</installer>
+  </game>
+
+  <game>
+    <id>16</id>
+    <title>Alan Wake 2</title>
+    <image>../Images/AlanWake2/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/AlanWake2/1.jpg</img>
+      <img>../Images/AlanWake2/2.jpg</img>
+      <img>../Images/AlanWake2/3.jpg</img>
+    </screenshots>
+
+    <genres>Хоррор, Триллер</genres>
+    <description>Alan Wake 2 — психологический хоррор, где реальность и кошмар переплетаются. Игроку предстоит расследовать мрачные события и раскрыть тайну Тёмного Мира.</description>
+    <installer>../installers/AlanWake2.torrent</installer>
+  </game>
+
+  <game>
+    <id>17</id>
+    <title>Need for Speed Undergrund</title>
+    <image>../Images/NFSU/main.jpg</image>
+
+    <screenshots>
+      <img>../Images/NFSU/1.jpg</img>
+      <img>../Images/NFSU/2.jpg</img>
+      <img>../Images/NFSU/3.jpg</img>
+    </screenshots>
+
+    <genres>Гонки, Аркада</genres>
+    <description>Need for Speed Underground — культовая гоночная игра, посвящённая уличным гонкам и тюнингу автомобилей. Игрока ждут ночные трассы, глубокая система кастомизации и динамичные заезды, ставшие классикой жанра.</description>
+    <installer>../installers/NFSUnderground.torrent</installer>
+  </game>
+
+  <game>
+  <id>18</id>
+  <title>The Sims 4</title>
+  <image>../Images/Sims4/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Sims4/1.jpg</img>
+    <img>../Images/Sims4/2.jpg</img>
+    <img>../Images/Sims4/3.jpg</img>
+  </screenshots>
+
+  <genres>Песочница, Строительство</genres>
+  <description>The Sims 4 — популярный симулятор жизни, в котором игрок создаёт персонажей, строит дома и управляет их судьбами. Огромные возможности кастомизации и свобода действий делают игру уникальной в своём жанре.</description>
+  <installer>../installers/Sims4.torrent</installer>
+</game>
+
+  <game>
+  <id>19</id>
+  <title>Assassin's Creed II</title>
+  <image>../Images/AC2/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/AC2/1.jpg</img>
+    <img>../Images/AC2/2.jpg</img>
+    <img>../Images/AC2/3.jpg</img>
+  </screenshots>
+
+  <genres>Экшен, Приключения, Стелс</genres>
+  <description>Assassin’s Creed II рассказывает историю Эцио Аудиторе — молодого итальянского дворянина, ставшего ассасином. Игрока ждут путешествия по Флоренции, Венеции и Риму, захватывающий сюжет и улучшенная боевая система.</description>
+  <installer>../installers/AC2.torrent</installer>
+</game>
+
+  <game>
+  <id>20</id>
+  <title>Minecraft</title>
+  <image>../Images/Minecraft/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Minecraft/1.jpg</img>
+    <img>../Images/Minecraft/2.jpg</img>
+    <img>../Images/Minecraft/3.jpg</img>
+  </screenshots>
+
+  <genres>Песочница, Строительство</genres>
+  <description>Minecraft — легендарная песочница, в которой игрок может исследовать процедурно генерируемый мир, добывать ресурсы, строить сооружения и сражаться с врагами. Игра предлагает полную свободу творчества и приключений.</description>
+  <installer>../installers/Minecraft.torrent</installer>
+</game>
+
+  <game>
+  <id>21</id>
+  <title>Mafia II</title>
+  <image>../Images/Mafia2/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Mafia2/1.jpg</img>
+    <img>../Images/Mafia2/2.jpg</img>
+    <img>../Images/Mafia2/3.jpg</img>
+  </screenshots>
+
+  <genres>Экшен, Драма, Открытый мир</genres>
+  <description>Mafia II — криминальная драма о Вито Скалетта, молодом итальянце, который возвращается с войны и оказывается втянут в мир мафии. Игрока ждут атмосферный город Эмпайр-Бэй 40–50-х годов, напряжённые перестрелки, кинематографичные сцены и глубокий сюжет о дружбе, предательстве и цене власти.</description>
+  <installer>../installers/Mafia2.torrent</installer>
+</game>
+
+<game>
+  <id>22</id>
+  <title>Detroit: Become Human</title>
+  <image>../Images/Detroit/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Detroit/1.jpg</img>
+    <img>../Images/Detroit/2.jpg</img>
+    <img>../Images/Detroit/3.jpg</img>
+  </screenshots>
+
+  <genres>Интерактивное кино, Драма</genres>
+  <description>Detroit: Become Human — интерактивная драма о будущем, где андроиды становятся похожими на людей. Игрок принимает решения, влияющие на судьбы трёх главных героев и весь мир.</description>
+  <installer>../installers/Detroit.torrent</installer>
+</game>
+
+<game>
+  <id>23</id>
+  <title>Grand Theft Auto V</title>
+  <image>../Images/GTA5/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/GTA5/1.jpg</img>
+    <img>../Images/GTA5/2.jpg</img>
+    <img>../Images/GTA5/3.jpg</img>
+  </screenshots>
+
+  <genres>Открытый мир, Экшен</genres>
+  <description>GTA V — культовая игра с огромным открытым миром Лос-Сантоса. Игрок управляет тремя героями, выполняет миссии, участвует в ограблениях и исследует живой город.</description>
+  <installer>../installers/GTA5.torrent</installer>
+</game>
+
+<game>
+  <id>24</id>
+  <title>Call of Duty: MW2</title>
+  <image>../Images/MW2/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/MW2/1.jpg</img>
+    <img>../Images/MW2/2.jpg</img>
+    <img>../Images/MW2/3.jpg</img>
+  </screenshots>
+
+  <genres>Шутер, Военный</genres>
+  <description>Modern Warfare 2 — динамичный шутер с кинематографичной кампанией и напряжёнными спецоперациями. Игрок участвует в глобальных конфликтах и сражается в составе отряда «141».</description>
+  <installer>../installers/MW2.torrent</installer>
+</game>
+
+<game>
+  <id>25</id>
+  <title>Atomic Heart</title>
+  <image>../Images/AtomicHeart/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/AtomicHeart/1.jpg</img>
+    <img>../Images/AtomicHeart/2.jpg</img>
+    <img>../Images/AtomicHeart/3.jpg</img>
+  </screenshots>
+
+  <genres>Шутер, Приключения</genres>
+  <description>Atomic Heart — альтернативная СССР‑утопия, где роботы восстали против людей. Игроку предстоит исследовать секретные лаборатории, сражаться с машинами и раскрывать мрачные тайны.</description>
+  <installer>../installers/AtomicHeart.torrent</installer>
+</game>
+
+<game>
+  <id>26</id>
+  <title>Resident Evil 4 Remake</title>
+  <image>../Images/RE4/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/RE4/1.jpg</img>
+    <img>../Images/RE4/2.jpg</img>
+    <img>../Images/RE4/3.jpg</img>
+  </screenshots>
+
+  <genres>Хоррор, Экшен</genres>
+  <description>Resident Evil 4 Remake — современное переосмысление классического хоррора. Леон Кеннеди отправляется спасать дочь президента, сталкиваясь с заражёнными и опасными культами.</description>
+  <installer>../installers/RE4.torrent</installer>
+</game>
+
+<game>
+  <id>27</id>
+  <title>Fallout 4</title>
+  <image>../Images/Fallout4/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Fallout4/1.jpg</img>
+    <img>../Images/Fallout4/2.jpg</img>
+    <img>../Images/Fallout4/3.jpg</img>
+  </screenshots>
+
+  <genres>RPG, Постапокалипсис</genres>
+  <description>Fallout 4 переносит игрока в пустоши Бостона после ядерной войны. Вас ждут исследования, строительство поселений, сражения с мутантами и глубокая ролевая система.</description>
+  <installer>../installers/Fallout4.torrent</installer>
+</game>
+
+<game>
+  <id>28</id>
+  <title>Dying Light</title>
+  <image>../Images/DyingLight/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/DyingLight/1.jpg</img>
+    <img>../Images/DyingLight/2.jpg</img>
+    <img>../Images/DyingLight/3.jpg</img>
+  </screenshots>
+
+  <genres>Экшен, Выживание, Зомби</genres>
+  <description>Dying Light — динамичный экшен с паркуром и зомби. Днём игрок исследует город, а ночью сталкивается с особо опасными мутантами.</description>
+  <installer>../installers/DyingLight.torrent</installer>
+</game>
+
+<game>
+  <id>29</id>
+  <title>Spider-Man: Miles Morales</title>
+  <image>../Images/SpiderManMM/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/SpiderManMM/1.jpg</img>
+    <img>../Images/SpiderManMM/2.jpg</img>
+    <img>../Images/SpiderManMM/3.jpg</img>
+  </screenshots>
+
+  <genres>Экшен, Открытый мир</genres>
+  <description>Miles Morales — самостоятельная история о новом Человеке‑Пауке, который защищает Нью-Йорк, используя биоэлектрические способности и акробатику.</description>
+  <installer>../installers/SpiderManMM.torrent</installer>
+</game>
+
+<game>
+  <id>30</id>
+  <title>Euro Truck Simulator 2</title>
+  <image>../Images/ETS2/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/ETS2/1.jpg</img>
+    <img>../Images/ETS2/2.jpg</img>
+    <img>../Images/ETS2/3.jpg</img>
+  </screenshots>
+
+  <genres>Симулятор, Вождение</genres>
+  <description>Euro Truck Simulator 2 — реалистичный симулятор дальнобойщика. Игрок перевозит грузы по Европе, развивает свою компанию и наслаждается атмосферой дорог.</description>
+  <installer>../installers/ETS2.torrent</installer>
+</game>
+
+<game>
+  <id>31</id>
+  <title>Watch Dogs 2</title>
+  <image>../Images/WatchDogs2/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/WatchDogs2/1.jpg</img>
+    <img>../Images/WatchDogs2/2.jpg</img>
+    <img>../Images/WatchDogs2/3.jpg</img>
+  </screenshots>
+
+  <genres>Открытый мир, Хакерство, Экшен</genres>
+  <description>Watch Dogs 2 переносит игрока в солнечный Сан-Франциско, где молодой хакер Маркус Холлоуэй вступает в DedSec, чтобы бороться с тотальной слежкой. Игрока ждут взломы, паркур, гаджеты и свобода действий.</description>
+  <installer>../installers/WatchDogs2.torrent</installer>
+</game>
+
+<game>
+  <id>32</id>
+  <title>Silent Hill 2</title>
+  <image>../Images/SilentHill2/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/SilentHill2/1.jpg</img>
+    <img>../Images/SilentHill2/2.jpg</img>
+    <img>../Images/SilentHill2/3.jpg</img>
+  </screenshots>
+
+  <genres>Хоррор, Психологический триллер</genres>
+  <description>Silent Hill 2 — культовый психологический хоррор, рассказывающий историю Джеймса Сандерленда, который получает письмо от умершей жены. Мрачная атмосфера и глубокий сюжет сделали игру легендой жанра.</description>
+  <installer>../installers/SilentHill2.torrent</installer>
+</game>
+
+<game>
+  <id>33</id>
+  <title>Portal 2</title>
+  <image>../Images/Portal/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Portal/1.jpg</img>
+    <img>../Images/Portal/2.jpg</img>
+    <img>../Images/Portal/3.jpg</img>
+  </screenshots>
+
+  <genres>Головоломка, Научная фантастика</genres>
+  <description>Portal 2 — уникальная головоломка, где игрок использует портальную пушку для решения задач. Игра известна своим юмором, атмосферой лабораторий Aperture и культовым ИИ GLaDOS.</description>
+  <installer>../installers/Portal.torrent</installer>
+</game>
+
+<game>
+  <id>34</id>
+  <title>GTA: San Andreas</title>
+  <image>../Images/GTASA/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/GTASA/1.jpg</img>
+    <img>../Images/GTASA/2.jpg</img>
+    <img>../Images/GTASA/3.jpg</img>
+  </screenshots>
+
+  <genres>Открытый мир, Экшен</genres>
+  <description>San Andreas — легендарная игра о Карле Джонсоне, который возвращается домой и оказывается втянут в криминальные разборки. Огромный мир, свобода действий и культовая атмосфера 90-х.</description>
+  <installer>../installers/GTASA.torrent</installer>
+</game>
+
+<game>
+  <id>35</id>
+  <title>Dark Souls III</title>
+  <image>../Images/DarkSouls3/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/DarkSouls3/1.jpg</img>
+    <img>../Images/DarkSouls3/2.jpg</img>
+    <img>../Images/DarkSouls3/3.jpg</img>
+  </screenshots>
+
+  <genres>Souls-like, RPG, Экшен</genres>
+  <description>Dark Souls III — мрачная и сложная игра, где игрок сражается с могущественными боссами и исследует погибающий мир. Атмосфера, музыка и боевая система делают игру шедевром жанра.</description>
+  <installer>../installers/DarkSouls3.torrent</installer>
+</game>
+
+<game>
+  <id>36</id>
+  <title>Outlast</title>
+  <image>../Images/Outlast/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Outlast/1.jpg</img>
+    <img>../Images/Outlast/2.jpg</img>
+    <img>../Images/Outlast/3.jpg</img>
+  </screenshots>
+
+  <genres>Хоррор, Выживание</genres>
+  <description>Outlast — один из самых страшных хорроров, где игрок оказывается в заброшенной психиатрической больнице, полной безумцев и тайн. Камера — единственный инструмент выживания.</description>
+  <installer>../installers/Outlast.torrent</installer>
+</game>
+
+<game>
+  <id>37</id>
+  <title>Tomb Raider</title>
+  <image>../Images/TombRaider/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/TombRaider/1.jpg</img>
+    <img>../Images/TombRaider/2.jpg</img>
+    <img>../Images/TombRaider/3.jpg</img>
+  </screenshots>
+
+  <genres>Экшен, Приключения</genres>
+  <description>Tomb Raider — перезапуск серии, рассказывающий о становлении Лары Крофт. Игрока ждут опасные острова, древние тайны и динамичные сражения.</description>
+  <installer>../installers/TombRaider.torrent</installer>
+</game>
+
+<game>
+  <id>38</id>
+  <title>The Elder Scrolls V: Skyrim</title>
+  <image>../Images/Skyrim/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Skyrim/1.jpg</img>
+    <img>../Images/Skyrim/2.jpg</img>
+    <img>../Images/Skyrim/3.jpg</img>
+  </screenshots>
+
+  <genres>RPG, Открытый мир</genres>
+  <description>Skyrim — легендарная ролевая игра, где игрок становится Драконорожденным и исследует огромный северный регион Тамриэля. Свобода действий и моды сделали игру бессмертной классикой.</description>
+  <installer>../installers/Skyrim.torrent</installer>
+</game>
+
+<game>
+  <id>39</id>
+  <title>The Walking Dead</title>
+  <image>../Images/WalkingDead/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/WalkingDead/1.jpg</img>
+    <img>../Images/WalkingDead/2.jpg</img>
+    <img>../Images/WalkingDead/3.jpg</img>
+  </screenshots>
+
+  <genres>Интерактивное кино, Драма</genres>
+  <description>The Walking Dead — эмоциональная история о выживании в мире зомби. Игрок принимает решения, влияющие на судьбы героев, включая Клементины и Ли.</description>
+  <installer>../installers/WalkingDead.torrent</installer>
+</game>
+
+<game>
+  <id>40</id>
+  <title>South Park: Stick of Truth</title>
+  <image>../Images/SouthPark/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/SouthPark/1.jpg</img>
+    <img>../Images/SouthPark/2.jpg</img>
+    <img>../Images/SouthPark/3.jpg</img>
+  </screenshots>
+
+  <genres>RPG, Комедия</genres>
+  <description>Stick of Truth — ролевая игра по мотивам мультсериала South Park. Игрок участвует в абсурдных приключениях, сражается в пошаговых боях и взаимодействует с любимыми персонажами.</description>
+  <installer>../installers/SouthPark.torrent</installer>
+</game>
+
+<game>
+  <id>41</id>
+  <title>Sekiro: Shadows Die Twice</title>
+  <image>../Images/Sekiro/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Sekiro/1.jpg</img>
+    <img>../Images/Sekiro/2.jpg</img>
+    <img>../Images/Sekiro/3.jpg</img>
+  </screenshots>
+
+  <genres>Souls-like, Экшен</genres>
+  <description>Sekiro — игра о шиноби, который стремится спасти своего господина. Уникальная механика парирования и сложные боссы делают игру одной из лучших в жанре.</description>
+  <installer>../installers/Sekiro.torrent</installer>
+</game>
+
+<game>
+  <id>42</id>
+  <title>NFS: Most Wanted</title>
+  <image>../Images/NFSMW/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/NFSMW/1.jpg</img>
+    <img>../Images/NFSMW/2.jpg</img>
+    <img>../Images/NFSMW/3.jpg</img>
+  </screenshots>
+
+  <genres>Гонки, Аркада</genres>
+  <description>Most Wanted — культовая игра серии NFS, где игрок участвует в уличных гонках и поднимается по «Чёрному списку». Погони с полицией стали визитной карточкой игры.</description>
+  <installer>../installers/NFSMW.torrent</installer>
+</game>
+
+<game>
+  <id>43</id>
+  <title>Metro 2033</title>
+  <image>../Images/Metro2033/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Metro2033/1.jpg</img>
+    <img>../Images/Metro2033/2.jpg</img>
+    <img>../Images/Metro2033/3.jpg</img>
+  </screenshots>
+
+  <genres>Шутер, Постапокалипсис</genres>
+  <description>Metro 2033 — игра по роману Дмитрия Глуховского. Игрок исследует туннели московского метро, сражается с мутантами и сталкивается с мистическими явлениями.</description>
+  <installer>../installers/Metro2033.torrent</installer>
+</game>
+
+<game>
+  <id>44</id>
+  <title>Bloodborne</title>
+  <image>../Images/Bloodborne/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Bloodborne/1.jpg</img>
+    <img>../Images/Bloodborne/2.jpg</img>
+    <img>../Images/Bloodborne/3.jpg</img>
+  </screenshots>
+
+  <genres>Souls-like, Хоррор</genres>
+  <description>Bloodborne — мрачная игра о проклятом городе Ярнаме, полном чудовищ и тайн. Быстрые бои и готическая атмосфера сделали игру культовой.</description>
+  <installer>../installers/Bloodborne.torrent</installer>
+</game>
+
+<game>
+  <id>45</id>
+  <title>Cuphead</title>
+  <image>../Images/Cuphead/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Cuphead/1.jpg</img>
+    <img>../Images/Cuphead/2.jpg</img>
+    <img>../Images/Cuphead/3.jpg</img>
+  </screenshots>
+
+  <genres>Платформер, Боссы</genres>
+  <description>Cuphead — хардкорный платформер, выполненный в стиле мультфильмов 30-х годов. Игрок сражается с уникальными боссами и наслаждается стильной анимацией.</description>
+  <installer>../installers/Cuphead.torrent</installer>
+</game>
+
+<game>
+  <id>46</id>
+  <title>Horizon Zero Dawn</title>
+  <image>../Images/HZD/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/HZD/1.jpg</img>
+    <img>../Images/HZD/2.jpg</img>
+    <img>../Images/HZD/3.jpg</img>
+  </screenshots>
+
+  <genres>RPG, Открытый мир</genres>
+  <description>Horizon Zero Dawn рассказывает историю Элой, охотницы в мире, где природа сосуществует с роботами. Игрок исследует огромные территории и сражается с механическими зверями.</description>
+  <installer>../installers/HZD.torrent</installer>
+</game>
+
+<game>
+  <id>47</id>
+  <title>Dishonored 2</title>
+  <image>../Images/Dishonored2/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/Dishonored2/1.jpg</img>
+    <img>../Images/Dishonored2/2.jpg</img>
+    <img>../Images/Dishonored2/3.jpg</img>
+  </screenshots>
+
+  <genres>Стелс, Экшен</genres>
+  <description>Dishonored 2 предлагает два играбельных персонажа и множество способов прохождения. Игрок использует магические способности, скрытность и тактику.</description>
+  <installer>../installers/Dishonored2.torrent</installer>
+</game>
+
+<game>
+  <id>48</id>
+  <title>Days Gone</title>
+  <image>../Images/DaysGonePC/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/DaysGonePC/1.jpg</img>
+    <img>../Images/DaysGonePC/2.jpg</img>
+    <img>../Images/DaysGonePC/3.jpg</img>
+  </screenshots>
+
+  <genres>Экшен, Выживание</genres>
+  <description>PC-версия Days Gone предлагает улучшенную графику, высокую частоту кадров и поддержку ультрашироких мониторов. История байкера Дикона стала ещё атмосфернее.</description>
+  <installer>../installers/DaysGonePC.torrent</installer>
+</game>
+
+<game>
+  <id>49</id>
+  <title>Super Mario</title>
+  <image>../Images/SuperMario/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/SuperMario/1.jpg</img>
+    <img>../Images/SuperMario/2.jpg</img>
+    <img>../Images/SuperMario/3.jpg</img>
+  </screenshots>
+
+  <genres>Платформер, Аркада</genres>
+  <description>Super Mario — классическая аркада, в которой игрок управляет Марио, преодолевая препятствия и спасая принцессу. Легендарная игра, знакомая каждому.</description>
+  <installer>../installers/SuperMario.torrent</installer>
+</game>
+
+<game>
+  <id>50</id>
+  <title>Half-Life 2</title>
+  <image>../Images/HalfLife/main.jpg</image>
+
+  <screenshots>
+    <img>../Images/HalfLife/1.jpg</img>
+    <img>../Images/HalfLife/2.jpg</img>
+    <img>../Images/HalfLife/3.jpg</img>
+  </screenshots>
+
+  <genres>Платформер, Аркада</genres>
+  <description>Half-Life 2 — научно-фантастический шутер от первого лица, разработанный Valve Corporation и выпущенный 16 ноября 2004 года. Действие игры происходит примерно через 20 лет после событий первой части (по подсчётам фанатов). G-Man пробуждает Гордона Фримена из стазиса и перемещает в поезд, идущий в Сити 17, город в Восточной Европе.</description>
+  <installer>../installers/HalfLife.torrent</installer>
+</game>
+
+
+</games>
