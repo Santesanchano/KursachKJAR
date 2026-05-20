@@ -1,0 +1,254 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #161616;
+  font-family: Arial, sans-serif;
+  color: #3bb33f;
+
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #E0E0E0;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+
+.back-btn {
+  background: none;
+  border: 2px solid #3bb33f;
+  color: #3bb33f;
+  padding: 10px 18px;
+  border-radius: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: 0.2s;
+}
+
+.back-btn:hover {
+  background: #3bb33f;
+  color: #161616;
+  box-shadow: 0 0 10px #3bb33f;
+}
+
+.game-page {
+  width: 80%;
+  margin: 40px auto;
+  padding-bottom: 40px;
+}
+
+#title {
+  font-size: 350%;
+  text-align: center;
+  margin-bottom: 25px;
+  color: #3bb33f;
+  text-shadow: 0 0 30px rgba(255, 255, 255, 0.342);
+}
+
+.main-image {
+  width: 100%;
+  border-radius: 12px;
+  border: 5px solid #3bb33f;
+  margin-bottom: 25px;
+  box-shadow: 0 0 20px rgba(59, 179, 63, 0.4);
+}
+
+/* карусель скринов*/
+.carousel {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto;
+  padding:10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.carousel::-webkit-scrollbar {
+  height: 8px;
+}
+
+.carousel::-webkit-scrollbar-thumb {
+  background: #3bb33f;
+  border-radius: 10px;
+}
+
+.carousel-img {
+  width: 200px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 2px solid #3bb33f;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.carousel-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #3bb33f;
+}
+
+.info {
+  background: #303030;
+  border: 2px solid #3bb33f;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.info h3 {
+  margin-top: 0;
+  font-size: 160%;
+  color: #3bb33f;
+}
+
+.info p {
+  font-size: 120%;
+  line-height: 1.5;
+  color: #cac3c3;
+}
+
+/* кнопка установить */
+.install-btn {
+  display: block;
+  
+  width: 260px;
+  margin: 0 auto;
+  padding: 15px 20px;
+  background: #3bb33f;
+  color: #161616;
+  border: none;
+  border-radius: 12px;
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.install-btn:hover {
+  background: #46d24b;
+  box-shadow: 0 0 15px #3bb33f;
+}
+
+.top-section {
+  display: flex;
+  gap: 30px;
+
+  border-bottom: 2px solid #3bb33f;
+  margin-bottom: 40px;
+}
+
+.left-cover {
+  flex: 1;
+}
+
+.left-cover img {
+  width: 70%;
+  height: auto;
+  border-radius: 12px;
+  border: 5px solid #3bb33f;
+  box-shadow: 0 0 20px rgba(59, 179, 63, 0.4);
+}
+
+.right-info {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.screenshot-viewer {
+  width: 100%;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.big-screenshot {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 12px;
+  border: 3px solid #3bb33f;
+  box-shadow: 0 0 15px rgba(59, 179, 63, 0.4);
+}
+
+
+
+.footer {
+  width: 100%;
+  background: #161616;
+  border-top: 3px solid #3bb33f;
+  padding: 25px 0;
+  margin-top: 40px;
+  text-align: center;
+  color: #3bb33f;
+  box-shadow: 0 -5px 20px #000;
+}
+
+.footer-content {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.footer h3 {
+  color: #55e75a;
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  font-size: 16px;
+  margin: 6px 0;
+  line-height: 1.5;
+}
+
+.footer-contacts p {
+  font-size: 18px;
+  margin: 4px 0;
+  color: #55e75a;
+}
+
+.footer-copy {
+  margin-top: 15px;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+@media (max-width: 1900px) {
+
+  .top-section {
+  display: block;
+  text-align: center;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.left-cover {
+  flex: none;
+}
+
+.left-cover img {
+  width: 80%;
+  height: auto;
+  border-radius: 12px;
+  border: 5px solid #3bb33f;
+}
+
+.right-info {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.info {
+  text-align: left;
+}
+
+.back-btn {
+  width: 100%;
+}
+
+}

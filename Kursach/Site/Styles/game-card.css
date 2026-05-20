@@ -1,0 +1,97 @@
+@charset "UTF-8";
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 250px);
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.game-card {
+  display: flex;
+  flex-direction: column;
+  background: #222;
+  border: 2px solid #3bb33f;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #ebf7e6;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transform: translateY(-4px);
+  box-shadow: 0 8px 40px rgb(0, 0, 0);
+}
+
+.game-card:hover {
+  transform: translateY(0px);
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+  box-shadow: 0 0 3px #55e75a;
+}
+
+.game-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.game-card h3 {
+  margin: 5px 0;
+  font-size: 18px;
+}
+
+.game-card p {
+  margin: 0 0 10px;
+  font-size: 14px;
+  opacity: 0.8;
+  color: #cac3c3;
+}
+
+
+
+.game-card button {
+  width: 40%;
+  margin-top: auto;
+  background: #3bb33f;
+  border: none;
+  color: #161616;
+  padding: 6px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.game-card button:hover {
+  background: #55e75a;
+  box-shadow: 0 0 15px #55e75a;
+}
+
+
+
+@media (max-width: 900px) {
+  .games-grid {
+    display: grid;;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    width: 90%;
+  }
+}
+
+@media (max-width: 600px) {
+ 
+
+
+  .game-card button {
+  width: 60%;
+  }
+
+  .footer-content {
+    width: 95%;
+  }
+
+  .footer p {
+    font-size: 14px;
+  }
+
+  .footer-contacts p {
+    font-size: 16px;
+  }
+}
